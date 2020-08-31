@@ -8,6 +8,8 @@ Participants created FM synthesiser patches using a three operator architecture 
 
 Audio files are presented in two folders: `audio_long` contains 4 second renderings of the synth patches with a 3-second gate followed by 1-second of release. `audio_short` contains 1.25 second renderings of the synth patches with a 1-second gate followed by 0.25-seconds of release. Audio is all presented in 16-bit 44.1kHz PCM WAV files.
 
+File names correspond to the `synth_id` field from `metadata.csv`.
+
 ```
 audio_long/
   - 00c4b7cf43ca323183879f32e0d500d0.wav
