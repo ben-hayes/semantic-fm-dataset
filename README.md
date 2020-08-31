@@ -48,4 +48,5 @@ The following metadata is provided (presented in `metadata.csv` heading order):
 ## References
 
 [1] B. Hayes and C. Saitis, ‘There’s more to timbre than musical instruments: semantic dimensions of FM sounds’, presented at the Timbre, Thessaloniki, Greece (Online), 2020, Advance online publication.
+
 [2] D. Müllensiefen, B. Gingras, J. Musil, and L. Stewart, ‘The Musicality of Non-Musicians: An Index for Assessing Musical Sophistication in the General Population’, PLOS ONE, vol. 9, no. 2, p. e89642, Feb. 2014, doi: 10.1371/journal.pone.0089642.
